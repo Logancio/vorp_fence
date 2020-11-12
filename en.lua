@@ -1,6 +1,6 @@
 Config = {}
 
-Config.NoInv = 'You dont have stock'
+Config.NoInv = "You don't have stock"
 Config.Shoptext = 'Press ~e~[E]~q~ to sell'
 Config.Selltext = 'You have sold '
 
@@ -45,21 +45,21 @@ Config.Chatarra = {
 	{
 		['Text'] = "$12 - Whisky",
 		['SubText'] = "",
-		['Desc'] = "Kentucky's Whisky",
+		['Desc'] = "Kentucky Whisky",
 		['Param'] = {
 			['Price'] = 12,
 			['Tipo'] = "whisky",
-			['Mens'] = "a bottle of Whisky"
+			['Mens'] = "a Bottle of Whisky"
 		}
 	},
 	{
-		['Text'] = "$1 - Kidneybeans Can",
+		['Text'] = "$1 - Kidney Beans Can",
 		['SubText'] = "",
-		['Desc'] = "Cooked Kidneybeans Can",
+		['Desc'] = "Can of Cooked Kidney Beans",
 		['Param'] = {
 			['Price'] = 1,
 			['Tipo'] = "consumable_kidneybeans_can",
-			['Mens'] = "a Can of Kidneybeans"
+			['Mens'] = "a Can of Kidney Beans"
 		}
 	}
 }
