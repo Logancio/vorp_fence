@@ -6,7 +6,7 @@ Installation :
 
 1 - ensure vorp_fence
 
-2 - add vorp_fecne to resources folder
+2 - add vorp_fence to resources folder
 
 A simple variation of the vendor script to allow sell things in "Black Market"
 
