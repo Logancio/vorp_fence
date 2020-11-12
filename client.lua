@@ -40,7 +40,7 @@ local function DisplayHelp( _message, x, y, w, h, enableShadow, col1, col2, col3
 end
 
 Citizen.CreateThread( function()
-	WarMenu.CreateMenu('fence', 'Mercado Negro')
+	WarMenu.CreateMenu('fence', 'Black Market')
 	repeat
 		if WarMenu.IsMenuOpened('fence') then
 			for i = 1, #chatarra do
